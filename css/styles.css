@@ -45,7 +45,7 @@ body {
 }
 
 .navbar-brand p {
- 	  color: #ff0000;
+ 	color: #ff0000;
   	text-transform: uppercase;
   	font-size: .8em;
   	margin-top: 15px;
@@ -146,11 +146,11 @@ body {
 }
 
 #menu-tile {
-    background: url('../images/menu-tile.jpg') no-repeat;
+    background: url('../Images/menu-tile.jpg') no-repeat;
     background-position: center;
 }
 #specials-tile {
-    background: url('../images/specials-tile.jpg') no-repeat;
+    background: url('../Images/specials-tile.jpg') no-repeat;
     background-position: center;
 }
 
